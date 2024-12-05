@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .architect
 bootstrap.css
 bootstrap.js
@@ -13,7 +12,6 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
-=======
 # Logs
 
 logs
@@ -186,4 +184,3 @@ dist
 
 .dev.vars
 .wrangler/
->>>>>>> 3575867 (Initial commit (by create-cloudflare CLI))
